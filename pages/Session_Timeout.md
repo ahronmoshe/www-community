@@ -97,7 +97,7 @@ On JEE web application , there 2 ways to define session timeout,
 
 Session timeout define action window time for a user thus this window
 represents, in the same time, the delay in which an attacker can try to
-steal and use a existing user session...
+steal and use an existing user session...
 
 For this, it's best practices to :
 
